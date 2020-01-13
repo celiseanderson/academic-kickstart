@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Elise Anderson
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Student
 
 # Organizations/Affiliations
 organizations:
@@ -70,6 +70,4 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Elise Anderson is a 4th year History student at Carleton University who is currently taking Digital History!
