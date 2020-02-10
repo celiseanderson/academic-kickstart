@@ -1,0 +1,37 @@
+---
+date: 2020-02-10
+title: Devlog 4 - Canada Science and Technology Museum
+summary: 
+
+
+tags:
+  - devlog
+
+---
+
+# Canada Science and Technology Museum
+
+Update: Apologies for the delay in devlogs! I realized my entire website was not updating for 2 weeks. After spending some time 
+troubleshooting, it ends up it was because I used a “:” in the metadata of devlog 2 instead of a “-“ (or any other legal character).
+Oops! I really should be more conscious of this kind of error, as last week I had code not compile for hours because I used ‘ instead of 
+`. Seems to be a trend with me!
+
+Anyways, moving on to the museum reflection! This week was the one I was most looking forward to: the visit to the Canada Science and 
+Technology Museum. A few weeks ago I chose to sign up to work with their materials, so I was a bit nervous to see exactly what they had 
+for us. Fortunately, by the end of the visit I felt like I had made the right choice based off of what I wanted to accomplish in this 
+course.
+
+We are going to work with data involving historic survey markers taken from locations across Canada. Not only do we have information on 
+where the markers were, but how they created them. In addition, there were some materials on who was involved in the process of putting 
+them up and, eventually, taking them down.
+
+Our group seems fairly split on who is more interested in the materiality of the markers versus the location, which is excellent! I find 
+myself more on the location side of it, as I think GIS mapping these markers could be a fascinating starting point. These markers 
+represent a very colonial claiming of land, and where they were placed in relation to each other could offer a lot of insight. 
+
+In addition, my mind immediately jumps to adding a temporal aspect. To me, even more could be gained from the materials if we explore not 
+only where they were placed but when and how frequently. Maybe creating a visualization of a time lapse map video to show the pacing and 
+locations of markers as they were added would be of use? By extension, the same could be done for when they were taken down. 
+
+Those are my initial thoughts at least. I think we are fortunate to have lots of materials to work with and a large group, so we can see 
+where this project goes once we meet up again. Can’t wait to see how this turns out!
