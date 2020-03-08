@@ -1,1 +1,30 @@
+---
+date: 2020-03-08
+title: Devlog 7 - Useful Data
+summary: 
+
+
+tags:
+  - devlog
+
+---
+
+# Useful Data
+
+Apologies, I was sick this week and couldn’t attend class. As a result, I’m also super behind and overwhelmed with work so this may be on the shorter side. 
+
+Project
+- This week, thinking about what data is useful when building a data set
+- Compatibility vs Concise
+- Project only needs limited datafields for our purposes
+- Should more datafields be kept to stay compatible with the previous work done?
+- Importance of compatibility has repeatedly been brought up in the course
+- BUT what good is the data if its incomprehensible
+- Keeping extra fields leaves it more compatible for the museum maybe, but not for a wider audience
+- What role is Heritage Jam in this? What kind of audience should this be for?
+- On a side note, my mind keeps going towards how to build it as a relational database due to my other course
+- Don’t want to overly complicate things
+
+
+
 
